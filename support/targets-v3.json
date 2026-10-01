@@ -1225,11 +1225,11 @@
       ],
       "flavor": "kernelsu-next",
       "exploit": {
-        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/refs/heads/main/artifacts/boq-S908EXXSDGZB6/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/main/artifacts/boq-S908EXXSDGZB6/cve-2026-43499-app.so",
         "size": 7277072
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/refs/heads/main/kernelsu/android12-5.10_kernelsu-next-S908EXXSDGZB6-kdp.ko",
+        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/main/kernelsu/android12-5.10_kernelsu-next-S908EXXSDGZB6-kdp.ko",
         "size": 463544,
         "sha256": "c22997ee0de503061105f30218b91d318a4ea2ba6fb89be7f6815e56e4bb9571",
         "version": "3.4.0"
