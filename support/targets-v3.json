@@ -1229,9 +1229,9 @@
         "size": 7277072
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/main/kernelsu/ksud-next-generic-kdp",
-        "size": 4634224,
-        "sha256": "367c8fb6b9fc74655dc91339aa18804ac07b42066f3017f968622b189ff9d416",
+        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/main/kernelsu/ksud-next-boq-S908EXXSDGZB6-kdp",
+        "size": 5518552,
+        "sha256": "52ba3da465459bfbac98dd25c53f8d31f93ee5a8ee89d84f67a28fe0d18cdef2",
         "version": "3.4.0"
       }
     }
