@@ -1218,7 +1218,7 @@
       "payloadId": "boq-S908EXXSDGZB6",
       "displayName": "Galaxy S22 Ultra | KernelSU-Next 3.4.0 (test)",
       "models": [
-        "SM-S908E "
+        "SM-S908E"
       ],
       "kernelVersions": [
         "5.10.236"
