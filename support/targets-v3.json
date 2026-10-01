@@ -1213,6 +1213,27 @@
         "sha256": "8c59f4e9d09a00ae0f763e41c08d35a85cd99570d3565a1fe6cc99afa12625c5",
         "version": "4.2.0-rc3"
       }
+    },
+    {
+      "payloadId": "boq-S908EXXSDGZB6",
+      "displayName": "Galaxy S22 Ultra | KernelSU-Next 3.4.0 (test)",
+      "models": [
+        "SM-S908E "
+      ],
+      "kernelVersions": [
+        "5.10.236"
+      ],
+      "flavor": "kernelsu-next",
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/refs/heads/main/artifacts/boq-S908EXXSDGZB6/cve-2026-43499-app.so",
+        "size": 7277072
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/refs/heads/main/kernelsu/android12-5.10_kernelsu-next-S908EXXSDGZB6-kdp.ko",
+        "size": 463544,
+        "sha256": "c22997ee0de503061105f30218b91d318a4ea2ba6fb89be7f6815e56e4bb9571",
+        "version": "3.4.0"
+      }
     }
   ]
 }
