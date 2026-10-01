@@ -1230,8 +1230,8 @@
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/the-e3n/Root-My-Galaxy-Payloads/main/kernelsu/ksud-next-boq-S908EXXSDGZB6-kdp",
-        "size": 5518552,
-        "sha256": "52ba3da465459bfbac98dd25c53f8d31f93ee5a8ee89d84f67a28fe0d18cdef2",
+        "size": 5519079,
+        "sha256": "53fb0d81c561d1ff77f22c4cc729c63d1de556d2fe73325d668aef23019d1be1",
         "version": "3.4.0"
       }
     }
